@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently off
+🔭 I’m currently working on LaFitRay project
 <!--
- working on Neocracy project
+ 
 **dorayy/dorayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
